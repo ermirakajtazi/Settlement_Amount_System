@@ -31,3 +31,9 @@ body {
     text-wrap: balance;
   }
 }
+input {
+  font-size: 20px;
+}
+::placeholder {
+  font-size: 20px;
+}
